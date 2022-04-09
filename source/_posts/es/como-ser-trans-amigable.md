@@ -1,9 +1,9 @@
 ---
 title: Cómo ser trans-amigable
 lang: es
-dellxe: 2022-04-09 17:11:23
+deate: 2022-04-09 17:11:23
 tags: [trangender, "a las personas no trans"]
-cellxegory: trans
+category: trans
 ---
 Cuando encuentres este artículo, probablemente ya tendrás algunos conocimientos básicos sobre el transgénero, así que no me detendré en el concepto del transgénero. El objetivo de este artículo es dar algunos consejos básicos para poner en práctica de ser trans amigable. Estas sugerencias pueden servir de guía, pero también es importante estar atento, recibir las opiniones de las personas que te rodean y adaptarlas en consecuencia. Tal vez creemos una sociedad mejor y más segura para las personas trans.
 
