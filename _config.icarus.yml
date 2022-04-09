@@ -171,15 +171,15 @@ donates:
     -
         type: buymeacoffee
         # URL to the "Buy me a coffee" page
-        url: 'https://estela.moe/feed/'
+        url: 'https://feed.saeziae.net/'
     -
         type: alipay
         # Alipay qrcode image URL
-        qrcode: 'https://estela.moe/feed/1.png'
+        qrcode: 'https://feed.saeziae.net/1.png'
     -       
         type: wechat
         # Wechat qrcode image URL
-        qrcode: 'https://estela.moe/feed/wechat.png'
+        qrcode: 'https://feed.saeziae.net/wechat.png'
     # "Buy me a coffee" donate button configurations
 
 # Share plugin configurations
