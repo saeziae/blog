@@ -3,7 +3,11 @@ subtitle: ""
 description: ""
 keywords: null
 author: Estela ad Astra
-language: en
+language: 
+  - en
+  - es
+  - zh-Hans
+  - zh-Hant
 timezone: "Asia/Shanghai"
 url: https://blog.estel.moe
 permalink: ":lang/:year/:month/:title/"
