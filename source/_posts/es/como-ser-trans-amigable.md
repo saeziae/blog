@@ -1,7 +1,7 @@
 ---
 title: Cómo ser trans-amigable
 lang: es
-deate: 2022-04-09 17:11:23
+date: 2022-04-09 17:11:23
 tags: [trangender, "a las personas no trans"]
 category: trans
 ---
