@@ -9,7 +9,7 @@ language:
   - zh-Hans
   - zh-Hant
 timezone: "Asia/Shanghai"
-url: https://blog.estel.moe
+url: https://blog.estela.moe
 permalink: ":lang/:year/:month/:title/"
 permalink_defaults: null
 pretty_urls:

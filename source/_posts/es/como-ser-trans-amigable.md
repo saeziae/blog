@@ -29,7 +29,7 @@ El nombre real de una persona debe ser el que representa a ella. Preguntar a alg
 
 No es necesario preguntar por el pasado de alguien, por su aspecto anterior, por si ha iniciado el proceso de transición, o por si tiene previsto hacerlo.
 
-A las personas transgénero es posible no gustarles el sexo con el que nacieron. Estas cuestiones también pueden obligar a algunas personas a «salir del armario» o incluso poner a ellas en peligro y discriminación.
+A las personas transgénero es posible que no les guste el sexo con el que nacieron. Estas cuestiones también pueden obligar a algunas personas a «salir del armario» o incluso poner a ellas en peligro y discriminación.
 
 ## Cómo referirse a una persona no trans
 
